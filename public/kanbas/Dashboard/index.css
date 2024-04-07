@@ -1,0 +1,18 @@
+.wd-flex-row-container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .wd-flex-grow-1 {
+    flex-grow: 1;
+  }
+
+  .wd-margin-right-left {
+    margin-left: 20px;
+  }
+
+  .wd-margin-left {
+    margin-left: 5px;
+  }
+  
+    

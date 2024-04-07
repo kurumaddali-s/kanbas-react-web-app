@@ -1,0 +1,34 @@
+.wd-button-check-circle-icon{
+    background-color: white;
+    color: green;
+}
+
+.wd-button-publish
+{
+    background-color: green;
+    color: white;
+}
+
+.wd-button-left
+{
+    margin-left: 20px !important;
+}
+
+.wd-kanbas-statement
+{
+    background-color: white;
+    list-style: none;
+    padding: 0px;  
+    margin-top: 10px;
+    margin-left: 20px !important;
+}
+
+.wd-kanbas-statement li {
+    padding: 10px;     
+    margin-bottom: 10px;
+    font-size: 0.8em;  
+    text-align: center;
+    border: 1px solid gray !important;
+    background-color: lightgray !important;
+
+  }
